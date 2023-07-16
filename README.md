@@ -1,5 +1,4 @@
 - Hi, I’m @Colmp95
-- Keen to learn Python
 
 <!---
 Colmp95/Colmp95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
